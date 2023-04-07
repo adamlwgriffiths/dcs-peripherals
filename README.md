@@ -1,2 +1,2 @@
 
-See the [wiki](./wiki)
+See the [wiki](../../wiki)
